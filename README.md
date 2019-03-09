@@ -30,7 +30,7 @@ This is the Task given by Commerce Pundit for making MERN STACK project under fo
 
 Clone code from below link to your local system.
 
-[Task by Commerce Pundit](https://github.com/jaysingh-stpl/assignment-by-cs.git)
+[Task by Commerce Pundit](https://github.com/jaysingh-stpl/task-commerce-pundit.git)
 
 ## Installation
 
