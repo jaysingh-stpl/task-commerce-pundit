@@ -1,0 +1,13 @@
+
+div#root {
+  height: 100%;
+ } 
+ .md-form .fa {
+   color: #000 !important;
+ }
+.invalid-feedback{ 
+    display: block; 
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
